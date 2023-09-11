@@ -1,0 +1,28 @@
+ body{
+    background-color: rgba(240, 168, 75, 0.945); }
+ .about1{
+    color: rgb(192, 136, 15);
+}
+.about{
+    color:coral;
+    border:3px solid black;
+    text-align: justify;
+}
+#heading{
+    color:rgb(112, 108, 108);
+    font-size: 40px;
+    font-style: italic;
+    text-shadow: 5px 5px 8px rgb(230, 101, 101);
+    letter-spacing: 5px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+.topbar{
+
+    text-decoration: none;
+}
+.women{
+    border:5px solid rgb(65, 65, 121);
+}
+.textbox{
+    border: 5px solid #fda7c8;
+
+}
